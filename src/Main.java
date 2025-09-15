@@ -62,5 +62,6 @@ public class Main {
         double result = Math.pow (x, 2) +  Math.pow((((4*y)/5) - x), 2);
 
         System.out.println(result);
+
     }
 }
